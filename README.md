@@ -1,6 +1,11 @@
 ![unit-tests](https://github.com/lazeroffmichael/ticktick-py/workflows/unit-tests/badge.svg)
 [![documentation](https://img.shields.io/badge/docs-mkdocs%20material-blue.svg?style=flat)](https://lazeroffmichael.github.io/ticktick-py/)
 
+> ⚠️ **Archived:**  
+> This project is no longer maintained, receives no updates, and is not supported anymore. It is no longer in use. Please do not rely on it for production purposes and instead refer to any active successors or reach out if you need help migrating data.
+>
+> I personally switched over to the [officially provided MCP server from TickTick](https://help.ticktick.com/articles/7438129581631995904)
+
 # ticktick-py
 ## Unofficial TickTick API Client for Python 3
 
